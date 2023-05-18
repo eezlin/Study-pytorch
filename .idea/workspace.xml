@@ -33,6 +33,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\Study-pytorch\Tudui" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.nn_loss">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Study-pytorch" />
@@ -150,6 +155,11 @@
       <workItem from="1684134916321" duration="20000" />
       <workItem from="1684135244018" duration="12188000" />
       <workItem from="1684155939809" duration="201000" />
+      <workItem from="1684201763891" duration="5430000" />
+      <workItem from="1684300752725" duration="4409000" />
+      <workItem from="1684305601729" duration="1549000" />
+      <workItem from="1684310284878" duration="3111000" />
+      <workItem from="1684329692864" duration="6000" />
     </task>
     <servers />
   </component>
