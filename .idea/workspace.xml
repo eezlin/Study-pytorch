@@ -160,6 +160,7 @@
       <workItem from="1684305601729" duration="1549000" />
       <workItem from="1684310284878" duration="3111000" />
       <workItem from="1684329692864" duration="6000" />
+      <workItem from="1686546780392" duration="4000" />
     </task>
     <servers />
   </component>
@@ -178,8 +179,8 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Study_pytorch$read_data.coverage" NAME="read_data 覆盖结果" MODIFIED="1684140429727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Study_pytorch$nn_loss.coverage" NAME="nn_loss 覆盖结果" MODIFIED="1684152216292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tudui" />
     <SUITE FILE_PATH="coverage/Study_pytorch$nn_module.coverage" NAME="nn_module 覆盖结果" MODIFIED="1684148334450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tudui/dataset" />
+    <SUITE FILE_PATH="coverage/Study_pytorch$nn_loss.coverage" NAME="nn_loss 覆盖结果" MODIFIED="1684152216292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tudui" />
+    <SUITE FILE_PATH="coverage/Study_pytorch$read_data.coverage" NAME="read_data 覆盖结果" MODIFIED="1684140429727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
