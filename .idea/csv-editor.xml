@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/D2L/d2l-pytorch/chapter_multilayer-perceptrons/submission.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/My_d2l_learn/data/house_tiny.csv">
           <value>
             <Attribute>
